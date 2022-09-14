@@ -1,0 +1,36 @@
+body
+{
+  background-image: linear-gradient(rgb(191, 216, 238), white);
+  min-height: 100vh;
+}
+
+.container
+{
+  width: 70%;
+  margin: auto;
+}
+
+.main-img
+{
+  display: block;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.main-container, .content
+{
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+  margin-top: 50px;
+  padding: 30px;
+}
+
+#top
+{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+  padding: 5px 5px;
+}
